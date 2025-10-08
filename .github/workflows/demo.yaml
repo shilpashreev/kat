@@ -1,4 +1,4 @@
-name: Publish Test Report to GitHub Pages
+name: Publish Test Report to GitHub Pages latest
 
 on:
   push:
